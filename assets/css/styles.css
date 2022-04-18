@@ -1,7 +1,15 @@
-/*por etiqueta*/
+/*por etieueta*/
+body{
+    font-family: 'Raleway', sans-serif;
+}
 
 
 
 /*por clase*/
 
 /*por id*/
+#rss{
+    font-size: 30px;
+}
+
+
